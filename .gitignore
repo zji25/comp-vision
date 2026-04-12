@@ -1,0 +1,5 @@
+*
+!.gitignore
+!**/*.ipynb
+!lab2/images/**
+*.DS_Store
